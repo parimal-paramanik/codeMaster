@@ -26,8 +26,8 @@ CodeMaster is your go-to tool for code conversion, debugging, and code quality a
 To get started with CodeMaster, follow these steps:
 
 1. **Clone the repository:** `git clone https://github.com/your-username/codemaster.git`
-2. **Install dependencies:** `npm install` or `yarn install`
-3. **Run CodeMaster:** `npm start` or `yarn start`
+2. **Install dependencies:** `npm install` 
+3. **Run CodeMaster:** `npm start` 
 
 ## Usage
 
@@ -43,7 +43,11 @@ You can access a live deployment of CodeMaster by following this link: [CodeMast
 
 Here are some screenshots of CodeMaster in action:
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](Frontend/screenshots/Screenshot%20_1.png)
+![Screenshot 2](Frontend/screenshots/Screenshot%20_2.png)
+![Screenshot 3](Frontend/screenshots/Screenshot%20_3.png)
+![Screenshot 4](Frontend/screenshots/Screenshot%20_4.png)
+
 ![Screenshot 2](screenshots/screenshot2.png)
 
 ## Contributing
