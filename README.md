@@ -37,7 +37,7 @@ To get started with CodeMaster, follow these steps:
 
 ## Deployment
 
-You can access a live deployment of CodeMaster by following this link: [CodeMaster Live](https://your-deployment-link.com)
+You can access a live deployment of CodeMaster by following this link: [CodeMaster Live](https://codemasterr.netlify.app/)
 
 ## Screenshots
 
