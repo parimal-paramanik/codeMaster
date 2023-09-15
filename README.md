@@ -39,6 +39,10 @@ To get started with CodeMaster, follow these steps:
 
 You can access a live deployment of CodeMaster by following this link: [CodeMaster Live](https://codemasterr.netlify.app/)
 
+## Recorder Video
+in case OPEN_AI_KEY expires refer to this video   [CodeMaster video]()
+ 
+  
 ## Screenshots
 
 Here are some screenshots of CodeMaster in action:
