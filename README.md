@@ -48,11 +48,6 @@ Here are some screenshots of CodeMaster in action:
 ![Screenshot 3](Frontend/screenshots/Screenshot%20_3.png)
 ![Screenshot 4](Frontend/screenshots/Screenshot%20_4.png)
 
-![Screenshot 2](screenshots/screenshot2.png)
-
-## Contributing
-
-We welcome contributions from the community. If you'd like to contribute to CodeMaster, please follow our [Contributing Guidelines](CONTRIBUTING.md).
 
 ## License
 
